@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cloud_Assignment_2</string>
+    <string name="cloud_assignment">Cloud Assignment</string>
+    <string name="button_send_notification">Send Notification</string>
+    <string name="channel_name">testing channel</string>
+    <string name="channel_description">description section</string>
+</resources>
